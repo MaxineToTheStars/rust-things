@@ -1,0 +1,21 @@
+# Rust Things || Cargo.toml
+# --------------------------------
+# Rust Things's rust manifest file.
+#
+# Authors: @MaxineToTheStars <https://github.com/MaxineToTheStars>
+# ----------------------------------------------------------------
+
+# Package Info
+[package]
+name = "rust-things"
+version = "0.1.0"
+authors = ["@MaxineToTheStars <https://github.com/MaxineToTheStars>"]
+edition = "2021"
+rust-version = "1.56.0"
+description = "Rust is a thing"
+readme = "README.md"
+homepage = "https://github.com/MaxineToTheStars"
+repository = "https://github.com/MaxineToTheStars/rust-things.git"
+license = "GPL-3.0-only"
+license-file = "LICENSE"
+build = false
